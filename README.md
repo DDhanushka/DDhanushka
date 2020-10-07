@@ -2,6 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddhanushka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![DDhanushka's github stats](https://github-readme-stats.vercel.app/api?username=ddhanushka&show_icons=true)
+
+
 <!--
 **DDhanushka/DDhanushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
