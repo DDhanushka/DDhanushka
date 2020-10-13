@@ -7,6 +7,9 @@
 - 🔭 I’m currently working on buiding our own MVC (Shhhh.. It's private)
 - 🌱 I’m currently learning jQuery (Don't laught at me :()
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ddhanushka)](https://github.com/LordDashMe/github-contribution-stats/)
+
+
 <!--
 **DDhanushka/DDhanushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
