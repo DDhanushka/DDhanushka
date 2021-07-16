@@ -6,8 +6,8 @@
 
 ![DDhanushka's github stats](https://github-readme-stats.vercel.app/api?username=ddhanushka&show_icons=true)
 
-- 🔭 I’m currently working on buiding our own MVC (Shhhh.. It's private)
-- 🌱 I’m currently learning jQuery (Don't laught at me :()
+
+- 🌱 I’m currently learning NodeJS )
 
 
 
