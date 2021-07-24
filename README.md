@@ -5,6 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddhanushka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![DDhanushka's github stats](https://github-readme-stats.vercel.app/api?username=ddhanushka&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?ddhanushka=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🌱 I’m currently learning NodeJS )
