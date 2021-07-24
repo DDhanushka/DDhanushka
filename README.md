@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddhanushka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![DDhanushka's github stats](https://github-readme-stats.vercel.app/api?username=ddhanushka&show_icons=true)
+<!-- ![DDhanushka's github stats](https://github-readme-stats.vercel.app/api?username=ddhanushka&show_icons=true) -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
