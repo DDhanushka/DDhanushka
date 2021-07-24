@@ -6,6 +6,8 @@
 
 ![DDhanushka's github stats](https://github-readme-stats.vercel.app/api?username=ddhanushka&show_icons=true)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 - 🌱 I’m currently learning NodeJS )
 
