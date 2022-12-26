@@ -9,8 +9,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-- 🌱 I’m currently learning NodeJS )
-
 <!--
 **DDhanushka/DDhanushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
